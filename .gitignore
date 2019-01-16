@@ -1,0 +1,10 @@
+# ignore media files
+
+*.jpg
+*.png
+
+# misc dirs
+
+vscode/
+bin/
+obj/
