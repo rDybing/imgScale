@@ -5,6 +5,6 @@
 
 # misc dirs
 
-vscode/
+.vscode/
 bin/
 obj/
